@@ -1,0 +1,10 @@
+# .gitignore
+*.pyc
+__pycache__/
+db.sqlite3  # Ignore the SQLite database file if using it
+/media/
+/static/
+venv  # Ignore your environment variables file
+*.log
+*.pot
+*.pyc
